@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+#parent {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.box1 {
+  background-color: blue;
+}
+.box2 {
+  background-color: green;
+}
+.box3 {
+  background-color: yellow;
+}
+.box4 {
+  background-color: orange;
+}
